@@ -1,0 +1,22 @@
+{
+  "name": "bstack",
+  "displayName": "bstack",
+  "version": "0.1.0",
+  "description": "Bastien's shared agent skills and coding standards. Install once; reuse across projects and agents.",
+  "author": {
+    "name": "Bastien",
+    "email": "bastien.pouessel@gmail.com"
+  },
+  "repository": "https://github.com/bastienpo/bstack",
+  "homepage": "https://github.com/bastienpo/bstack",
+  "license": "MIT",
+  "keywords": [
+    "bstack",
+    "skills",
+    "standards",
+    "code-style",
+    "pr-review"
+  ],
+  "category": "developer-tools",
+  "skills": "./skills/"
+}
