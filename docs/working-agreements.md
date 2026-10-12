@@ -1,4 +1,4 @@
-# Working agreements (bstack-mode)
+# Working agreements
 
 Default agent working style for Bastien.
 
@@ -24,5 +24,5 @@ Default agent working style for Bastien.
 ## Reuse and update norms
 
 - When a recurring preference shows up, encode it in `docs/` and a skill — do not only remember it in conversation.
-- When norms change, update `docs/` and refresh `skills/*/references/`.
+- When norms change, update `docs/`.
 - Prefer installing or invoking an existing bstack skill over reinventing the same rule.
